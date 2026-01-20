@@ -1,2 +1,4 @@
 hello everyone
 edit at remote repo.
+clone successed.
+at Desktop file
